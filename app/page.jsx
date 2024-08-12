@@ -78,7 +78,7 @@ const Signup = () => {
             </select>
           </div>
           <div className='w-[100%] md:w-[50%] flex flex-col mb-[24px] font-bold'>
-            <label htmlFor='email'>CITY</label>
+            <label htmlFor='email'>OTHERS</label>
             <input
               type='email'
               className='w-[100%] h-[36px] bg-gray-300 rounded-md mt-2 px-3'
